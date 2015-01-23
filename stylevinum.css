@@ -1,0 +1,68 @@
+body {
+  width: 960px;
+  margin-right: 200px;
+  margin-left: 200px;
+  font-family: helvetica neue, arial;
+  color: white;
+}
+
+a {
+	color: white;
+}
+
+table td {
+	text-align: center;
+	border: 1px solid #666666;
+	border-collapse: collapse;
+	font-size: 14px;
+}
+
+p {
+	line-height: 20px;
+}
+
+#img1 {
+	float: right;
+	width: 480px;
+	height: 320px;
+}
+
+#tier1 {
+	width: 380px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	background-color: #4b102a;
+	height: 245px;
+}
+
+#tier2 {
+	height: 170px;
+	width: 910px;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+	background-color: #000000;
+}
+
+#tier2table {
+	height: 170px;
+	width: 910px;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+	background-color: #000000;
+	border-color:#666666;
+	line-height: 20px;
+}
+
+#tier3 {
+	height: 170px;
+	width: 910px;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+	background-color: #e6e600;
+	color:#000000;
+}

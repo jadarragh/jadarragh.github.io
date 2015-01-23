@@ -1,0 +1,44 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: 'roboto', helvetica neue, arial, sans-serif;
+  color: #22262B;
+  background-color: black;
+  background-image: url(../images/woodsback2.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+h2 {
+  border-bottom: 1px solid gray;
+}
+a { 
+  color: orange;
+}
+a:hover {
+  color: purple;
+}
+p, li { 
+  font-size: 16px;
+  line-height: 24px;
+}
+img {
+  float: right;
+}
+#title {
+  font-family: 'Rock Salt', cursive;
+  float: left;
+  font-size: 60px;
+  font-style: bold;
+  color:  #8F4C31; 
+}
+#poster {
+  float: right;
+}
+#summary {
+  clear: both;
+  background-color: gray;
+  padding: 20px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
