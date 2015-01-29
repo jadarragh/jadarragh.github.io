@@ -15,8 +15,17 @@ body {
     text-shadow: black 0.3em 0.3em 0.3em;
     }
 
+.navbar {
+	margin-bottom: 0px;
+	background-color: #6969ff;
+}
+
 .navbar-header {
 	color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
 }
 
 #sidebar {
