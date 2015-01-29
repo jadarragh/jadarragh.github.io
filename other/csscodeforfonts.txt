@@ -1,0 +1,9 @@
+Title: 
+font-family: 'Calligraffitti', cursive;
+
+Paragraph:
+font-family: 'Open Sans', sans-serif;
+
+Header ideas:
+font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Josefin Slab', serif;
