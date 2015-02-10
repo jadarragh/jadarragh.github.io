@@ -1,6 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-color: white;	
+	background-color: #eee;	
 }
 
 .jumbotron {
@@ -13,11 +13,17 @@ body {
     font-family: 'Calligraffitti', cursive;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
+    border-radius: 0px;
     }
+
+.container .jumbotron {
+	border-radius: 6px;
+}
 
 .navbar {
 	margin-bottom: 0px;
 	background-color: #6969ff;
+	border-radius: 0px;
 }
 
 .navbar-header {
@@ -29,11 +35,12 @@ body {
 }
 
 #sidebar {
-	background: #ffd770;
+	background: #d2d2d2;
 	border-color: navy;
 	border-width: 50px;
 	height: 500px;
 	padding-top: 10px;
+	border-radius: 6px;
 }
 
 .sidebartext {
@@ -50,3 +57,4 @@ body {
 	height: 161px;
 	margin: 0 auto;
 }
+
